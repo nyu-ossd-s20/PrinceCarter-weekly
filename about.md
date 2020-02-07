@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Don't slip on the drip.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+NYU Junior CS & Econ major.
 
