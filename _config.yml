@@ -28,11 +28,11 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: "@princecarter"
-  instagram: "@princedcarter"
+  github: "princecarter"
+  instagram: "princedcarter"
   linkedin:
   pinterest:
-  twitter: "@__PrinceCarter"
+  twitter: "__PrinceCarter"
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -43,14 +43,14 @@ footer-links:
 # It should be "/USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
 
-url: "https://nyu-ossd-s20.github.io/weekly"
+url: "https://nyu-ossd-s20.github.io/PrinceCarter-weekly"
 
 # CUSTOMIZE
 # Replace this with the name of your own repository.
 # It should be "/USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
 
-baseurl: "/weekly"
+baseurl: "/PrinceCarter-weekly"
 
 #
 # !! You don't need to change any of the configuration flags below !!
