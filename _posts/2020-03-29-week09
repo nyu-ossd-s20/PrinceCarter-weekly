@@ -1,0 +1,9 @@
+---
+layout: post
+title: Week 9 - Getting our hands dirty
+---
+### Rebase Exercise
+This week started off with getting more familiar with git commands. For our in class exercise, we worked with 'git rebase'. Knowing this ahead of time, I did some research on my own by watching a quick tutorial about rebasing. This helped solidify my knowledge on what it means to rebase. When split off into the breakout rooms, my group and I were a bit flustered by the problem statement - even after watching a YouTube video before hand. Eventually, I gained some understanding of what was beign asked and started the exercise. I ran into my first issue during the exercise when I was expecting a conflict and never got one, ironically enough. This lead me to redoing the exercise over again and finally producing the correct result. The takeaway I got from the exercise was that rebase is a very daungting concept to grasp and even harder to use, however I think this activity was good for a rebasing introduction.
+
+### Group Project - OpenStreetMap
+Ben, Mark, and myself met on Zoom for the first time to discuss our possible contributions to OpenStreetMap. So far, we have been in contact with some of the major contributors to the projects to see where open-source beginners can get their first real-world contribution experience. Though we haven't done anything to contribute yet, I think it is good that we are starting to get to ready to think about our first contributions to a large open source project.
